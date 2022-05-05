@@ -1,7 +1,6 @@
 # mathrix
 Mathrix - Crucigrama de operaciones matemáticas
 Juego utilizado para la relosucion del Examen Final de Laboratorio deComputacion I.
-Explicacion con fotos:
 Ejecutar main.cpp
 
 ![Inicio](https://user-images.githubusercontent.com/84334292/166994633-5c9d2d5c-476b-4433-83ec-b56fb38a7c8b.png)
