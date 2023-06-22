@@ -1,4 +1,4 @@
-# mathrix
+# Mathrix
 Mathrix - Crucigrama de operaciones matemáticas
 Juego utilizado para la relosucion del Examen Final de Laboratorio deComputacion I.
 Ejecutar main.cpp
